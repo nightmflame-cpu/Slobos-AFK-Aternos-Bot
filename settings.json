@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fallensmps.aternos.me",
-    "port": 51485,
+    "ip": ".me",
+    "port": ,
     "version": "",
     "try-creative": false
   },
